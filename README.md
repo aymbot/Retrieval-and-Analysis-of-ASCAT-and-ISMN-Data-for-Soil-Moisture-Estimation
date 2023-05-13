@@ -28,7 +28,7 @@ The ASCAT data used in this project is not included in this repository. To acces
    - Place the downloaded files in a newly created folder named `ascat_data` in the repository or local instance of yours.
 
 2. **Reduced version on Zenodo**: Alternatively, you can use the reduced version of the ASCAT data that has been published on Zenodo. 
-The Zenodo DOI for the reduced dataset is [10.5281/zenodo.7932988]. To access the data, visit [here](https://zenodo.org/record/7932988#.ZGAEhqVBxD8) and download the dataset. If you choose this option, make sure to extract the data files and place them in the `ascat_data` folder.
+The Zenodo DOI for the reduced dataset is `10.5281/zenodo.7932988`. To access the data, visit [here](https://zenodo.org/record/7932988#.ZGAEhqVBxD8) and download the dataset. If you choose this option, make sure to extract the data files and place them in the `ascat_data` folder.
 
 #### Metadata and Format
 
@@ -60,7 +60,7 @@ Please refer to the ISMN source for more detailed metadata information about the
 ## Documentation and Data Management Plan (DMP)
 
 For further details on the data sources, metadata, and data management practices, please consult the Data Management Plan (DMP) associated with this project. The DMP provides comprehensive documentation, including information on data origin, characteristics, processing steps, and data access. 
-The DMP is available on Zenodo, and the DOI is [10.5281/zenodo.7933523]. You can access the DMP by visiting [Zenodo DMP Link].
+The DMP is available on Zenodo, and the DOI is `10.5281/zenodo.7933523`. You can access the DMP by visiting [Zenodo DMP Link].
 
 
 ## Code Execution
