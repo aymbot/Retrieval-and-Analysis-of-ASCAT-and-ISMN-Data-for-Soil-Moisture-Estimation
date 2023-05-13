@@ -1,5 +1,8 @@
 # Retrieval and Analysis of ASCAT and ISMN Data for Soil Moisture Estimation
 This project aims to simulate a real world experiment for the course Data Stewardship *(UE 2023S)*
+
+[![DOI](https://zenodo.org/badge/640369755.svg)](https://zenodo.org/badge/latestdoi/640369755)
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -7,7 +10,6 @@ This project aims to simulate a real world experiment for the course Data Stewar
 - [Documentation and Data Management Plan (DMP)](#documentation-and-data-management-plan-dmp)
 - [Code Execution](#code-execution)
 - [License](#license)
-- [Contributing](#contributing)
 
 ## Overview
 This is a project focused on retrieving and analyzing satellite-based ASCAT data and in-situ ISMN data for soil moisture estimation. 
@@ -28,7 +30,7 @@ The ASCAT data used in this project is not included in this repository. To acces
    - Place the downloaded files in a newly created folder named `ascat_data` in the repository or local instance of yours.
 
 2. **Reduced version on Zenodo**: Alternatively, you can use the reduced version of the ASCAT data that has been published on Zenodo. 
-The Zenodo DOI for the reduced dataset is `10.5281/zenodo.7932988`. To access the data, visit [here](https://zenodo.org/record/7932988#.ZGAEhqVBxD8) and download the dataset. If you choose this option, make sure to extract the data files and place them in the `ascat_data` folder.
+The Zenodo DOI for the reduced dataset is [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7932988.svg)](https://doi.org/10.5281/zenodo.7932988). To access the data, visit [here](https://zenodo.org/record/7932988#.ZGAEhqVBxD8) and download the dataset. If you choose this option, make sure to extract the data files and place them in the `ascat_data` folder.
 
 #### Metadata and Format
 
@@ -60,7 +62,7 @@ Please refer to the ISMN source for more detailed metadata information about the
 ## Documentation and Data Management Plan (DMP)
 
 For further details on the data sources, metadata, and data management practices, please consult the Data Management Plan (DMP) associated with this project. The DMP provides comprehensive documentation, including information on data origin, characteristics, processing steps, and data access. 
-The DMP is available on Zenodo, and the DOI is `10.5281/zenodo.7933523`. You can access the DMP by visiting [Zenodo DMP Link].
+The DMP is available on Zenodo, and the DOI is [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7933523.svg)](https://doi.org/10.5281/zenodo.7933523). You can access the DMP by visiting [here](https://zenodo.org/record/7933523#.ZGAPQaVBxD8).
 
 
 ## Code Execution
