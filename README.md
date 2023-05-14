@@ -46,7 +46,7 @@ Please refer to the ASCAT source for more detailed metadata information about th
 
 ### ISMN Data
 
-The ISMN data used in this project is included in the `ismn_Data` folder of this repository. The data files are already provided, and there is no need to fetch them from an external source.
+The ISMN data used in this project is included in the `ismn_data` folder of this repository. The data files are already provided, and there is no need to fetch them from an external source.
 
 #### Metadata and Format
 
